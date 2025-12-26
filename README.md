@@ -26,7 +26,7 @@ Aplikasi To-Do List sederhana berbasis Desktop menggunakan Python dan Tkinter.
 Aplikasi To Do List sederhana menggunakan Python (GUI).
 
 ## Tampilan Aplikasi
-![App Screenshot](screenshots/app.png)
+![Tampilan Aplikasi](https://raw.githubusercontent.com/NaufalAzka-DEV/My-mini-project/main/screenshots/app.png)
 
 ## Cara Menjalankan
 ```bash
